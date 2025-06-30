@@ -4,7 +4,8 @@ I’m a digital marketing strategist and founder of **Black Diamond Marketing So
 
 On GitHub, I share projects, tools, and code snippets related to marketing automation, SEO analysis, and web development best practices.
 
-🌐 Visit my website: [blackdiamondmarketingsolutions.com](https://blackdiamondmarketingsolutions.com)  
+🌐 Visit my website: [blackdiamondmarketingsolutions.com]<a href="https://blackdiamondmarketingsolutions.com" rel="me">blackdiamondmarketingsolutions.com</a>
+m)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/cappuckhaber)  
 
 ---
