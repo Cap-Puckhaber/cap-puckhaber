@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Cap Puckhaber 👋
 
-<!--
-**Cap-Puckhaber/cap-puckhaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a digital marketing strategist and founder of **Black Diamond Marketing Solutions**, based in Reno, Nevada. With over 15 years of experience, I specialize in SEO, PPC, content marketing, and digital growth strategies that help businesses increase their online presence and drive revenue.
 
-Here are some ideas to get you started:
+On GitHub, I share projects, tools, and code snippets related to marketing automation, SEO analysis, and web development best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Visit my website: [blackdiamondmarketingsolutions.com](https://blackdiamondmarketingsolutions.com)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/cap-puckhaber)  
+📫 Email me at: cap@blackdiamondmarketingsolutions.com
+
+---
+
+### Skills & Tools  
+- SEO & SEM Strategies  
+- Google Analytics & Tag Manager  
+- WordPress & PHP  
+- Python for Data Analysis  
+- Marketing Automation
+
+---
+
+Feel free to explore my repositories and get in touch!
