@@ -6,7 +6,6 @@ On GitHub, I share projects, tools, and code snippets related to marketing autom
 
 🌐 Visit my website: [blackdiamondmarketingsolutions.com](https://blackdiamondmarketingsolutions.com)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/cap-puckhaber)  
-📫 Email me at: cap@blackdiamondmarketingsolutions.com
 
 ---
 
